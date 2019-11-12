@@ -1,0 +1,3 @@
+Refactorisation de l'autoloader
+    - retirer .class dans l'autoaloader
+    - renommer les classes quis ont dans les repo /core et /models pour qu'ils soient .php et non plus .class.php
